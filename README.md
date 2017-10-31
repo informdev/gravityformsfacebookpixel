@@ -1,5 +1,5 @@
 # Force Gravity Forms To Track With Facebook Pixel
 
-Hi! I'm a little code snippet you can add to your WordPress functions.php file. I force the Gravity Forms plugin submissions to include the Facebook pixel for tracking purposes.
+Hi! I'm a little snippet of code you can add to the functions.php file of your WordPress installation. I give the Gravity Forms plugin an ability to track submissions via the Facebook pixel.
 
-At the time of writing this I was still viable but always be sure to check Gravity Forms for updates and news as the ability I give the software may be an added addition by default.
+At the time of my creation on GitHub I was still viable but be sure to check the Gravity Forms website as the ability I give the software may be a new addition to it's functionality at this point.
